@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T02:52:15.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="fHz2tleOMlS4YitB6RKi" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T02:53:51.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="MBTxQKrIbdV_T9I4oblL" version="16.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="716" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -21,6 +21,15 @@
         </mxCell>
         <mxCell id="gXetPkqHok_qFsUxH-uy-25" value="อนุมัติ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="230" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gXetPkqHok_qFsUxH-uy-26" value="แจ้งนักศึกษา" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gXetPkqHok_qFsUxH-uy-27" value="นักศึกษาส่งคำร้อง เพิ่มถอน ที่ส่งเสริมวิชาและงานทะเบียน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="310" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gXetPkqHok_qFsUxH-uy-28" value="จบ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="453" y="430" width="104" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
